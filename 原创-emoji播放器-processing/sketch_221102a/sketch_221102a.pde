@@ -4,7 +4,7 @@ import processing.sound.*;
 File[] emojiname ;
 int num;
 int total;
-String folderName="C:\\Users\\huyid\\Desktop\\新建文件夹\\sketch_221102a\\emoji\\apple\\";
+String folderName="自行更改";
 File file = new File(folderName);
 ArrayList<PImage> emoji= new ArrayList<PImage>();
 ArrayList<Integer> nmoji = new ArrayList<Integer>();
